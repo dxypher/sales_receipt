@@ -19,13 +19,7 @@ class Item
 	def price=(new_price)
 		@price = new_price
 	end
-	def sales_tax
-		puts @name
-	end
-
-	def import_duty
-		
-	end
+	
 end
 
 class Basket
